@@ -24,7 +24,7 @@ Notes:
 <li>Print all the methods in the main method to the console in a meaningful way.</li>
 
 <h1>Installation </h1>
-git clone 
+git clone https://github.com/ozgeaktas/HouseType.git
 
 <h1>Outputs</h1>
 
