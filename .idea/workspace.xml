@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a9c6698-a0f8-44f7-aff0-45a6ea3781a9" name="Changes" comment="" />
+    <list default="true" id="1a9c6698-a0f8-44f7-aff0-45a6ea3781a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseTypeApp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HouseTypeApp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseTypeApp/business/PropertyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HouseTypeApp/business/PropertyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseTypeApp/business/PropertyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HouseTypeApp/business/PropertyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseTypeApp/dataAccess/InMemoryProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HouseTypeApp/dataAccess/InMemoryProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseTypeApp/dataAccess/PropertyDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HouseTypeApp/dataAccess/PropertyDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseTypeApp/entities/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HouseTypeApp/entities/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseTypeApp/entities/Property.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HouseTypeApp/entities/Property.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseTypeApp/entities/Summerhouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HouseTypeApp/entities/Summerhouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseTypeApp/entities/Villa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HouseTypeApp/entities/Villa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KYJENfW4D9nVwGtBMOH87HrMIc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,13 +38,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HouseTypeApp.Main" />
+      <module name="HouseType" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HouseTypeApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +74,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674145474207</updated>
+      <workItem from="1674145477038" duration="15503000" />
+      <workItem from="1674162949518" duration="2592000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

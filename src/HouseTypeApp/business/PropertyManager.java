@@ -8,11 +8,11 @@ import HouseTypeApp.entities.Villa;
 
 import java.util.List;
 
-public class PropertyService {
+public class PropertyManager implements PropertyService {
 
     private PropertyDao propertyDao;
 
-    public PropertyService(PropertyDao propertyDao) {
+    public PropertyManager(PropertyDao propertyDao) {
         this.propertyDao = propertyDao;
     }
     public void add(Property property){
