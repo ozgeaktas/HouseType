@@ -23,8 +23,11 @@ Notes:
 <li>Follow the clean code principles.</li>
 <li>Print all the methods in the main method to the console in a meaningful way.</li>
 
+<h1>Installation </h1>
+git clone 
 
 <h1>Outputs</h1>
+
 ![Ekran Görüntüsü (846)](https://user-images.githubusercontent.com/54955167/213571817-d1052e5b-8f83-423c-9c3b-26096d09408e.png)
 
 
